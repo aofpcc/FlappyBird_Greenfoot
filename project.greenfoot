@@ -1,0 +1,14 @@
+#Greenfoot properties
+#Thu Mar 01 10:36:23 KRAT 2018
+simulation.speed=69
+mainWindow.width=850
+class.Base.superclass=greenfoot.Actor
+class.MyWorld.superclass=greenfoot.World
+project.charset=UTF-8
+version=3.0.0
+class.FlappyBird.superclass=greenfoot.Actor
+world.lastInstantiated=MyWorld
+class.Bg.superclass=greenfoot.Actor
+mainWindow.y=40
+mainWindow.x=40
+mainWindow.height=600
